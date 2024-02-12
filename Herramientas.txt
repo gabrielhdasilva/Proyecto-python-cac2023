@@ -1,0 +1,12 @@
+Páginas útiles:
+
+* Paletas de colores
+https://colorhunt.co/
+
+*Grid - Práctica:
+https://www.youtube.com/watch?v=htzLVAcZ0B4&t=3500s&ab_channel=VidaMRR-Programacionweb
+https://www.youtube.com/watch?v=QcYz949d8rM&list=LL&index=8&ab_channel=AlexCGDesign
+https://www.youtube.com/watch?v=Fj6BGtNvXIc&list=PLBvWRy2MM5Gf_hAEzMcM0etorLZ7b887M&ab_channel=VidaMRR-Programacionweb
+
+*Flexbox - Práctica:
+https://www.youtube.com/watch?v=EVBlLkfh2V0&list=PLBvWRy2MM5Gf_hAEzMcM0etorLZ7b887M&index=2&pp=gAQBiAQB
